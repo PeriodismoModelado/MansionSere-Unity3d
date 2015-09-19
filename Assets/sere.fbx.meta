@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 10ae73c22ae664c7b8e8d59578ba7e0a
+timeCreated: 1442664711
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: Mesh1 Group1 Model.001
+    100006: Mesh10 tree1 LOW_POLY_TREE1 Model.001
+    100008: Mesh100 Group11 Group6 Table_2_1 Model.001
+    100010: Mesh101 Group12 Group6 Table_2_1 Model.001
+    100012: Mesh102 Model.001
+    100014: Mesh103 Model.001
+    100016: Mesh104 Model.001
+    100018: Mesh105 Model.001
+    100020: Mesh11 tree1 LOW_POLY_TREE1 Model.001
+    100022: Mesh12 tree1 LOW_POLY_TREE1 Model.001
+    100024: Mesh13 tree2 LOW_POLY_TREE1 Model.001
+    100026: Mesh14 tree2 LOW_POLY_TREE1 Model.001
+    100028: Mesh15 tree2 LOW_POLY_TREE1 Model.001
+    100030: Mesh16 tree2 LOW_POLY_TREE1 Model.001
+    100032: Mesh17 tree2 LOW_POLY_TREE1 Model.001
+    100034: Mesh18 tree2 LOW_POLY_TREE1 Model.001
+    100036: Mesh19 tree3 LOW_POLY_TREE1 Model.001
+    100038: Mesh2 Group2 Model.001
+    100040: Mesh20 tree3 LOW_POLY_TREE1 Model.001
+    100042: Mesh21 tree3 LOW_POLY_TREE1 Model.001
+    100044: Mesh22 tree3 LOW_POLY_TREE1 Model.001
+    100046: Mesh23 tree3 LOW_POLY_TREE1 Model.001
+    100048: Mesh24 tree3 LOW_POLY_TREE1 Model.001
+    100050: Mesh25 tree4 LOW_POLY_TREE1 Model.001
+    100052: Mesh26 tree4 LOW_POLY_TREE1 Model.001
+    100054: Mesh27 tree4 LOW_POLY_TREE1 Model.001
+    100056: Mesh28 tree4 LOW_POLY_TREE1 Model.001
+    100058: Mesh29 tree4 LOW_POLY_TREE1 Model.001
+    100060: Mesh3 Group3 Model.001
+    100062: Mesh30 tree4 LOW_POLY_TREE1 Model.001
+    100064: Mesh31 tree5 LOW_POLY_TREE2 Model.001
+    100066: Mesh32 tree5 LOW_POLY_TREE2 Model.001
+    100068: Mesh33 tree5 LOW_POLY_TREE2 Model.001
+    100070: Mesh34 tree5 LOW_POLY_TREE2 Model.001
+    100072: Mesh35 tree5 LOW_POLY_TREE2 Model.001
+    100074: Mesh36 tree5 LOW_POLY_TREE2 Model.001
+    100076: Mesh37 tree6 LOW_POLY_TREE2 Model.001
+    100078: Mesh38 tree6 LOW_POLY_TREE2 Model.001
+    100080: Mesh39 tree6 LOW_POLY_TREE2 Model.001
+    100082: Mesh4 Group4 Model.001
+    100084: Mesh40 tree6 LOW_POLY_TREE2 Model.001
+    100086: Mesh41 tree6 LOW_POLY_TREE2 Model.001
+    100088: Mesh42 tree6 LOW_POLY_TREE2 Model.001
+    100090: Mesh43 tree7 LOW_POLY_TREE2 Model.001
+    100092: Mesh44 tree7 LOW_POLY_TREE2 Model.001
+    100094: Mesh45 tree7 LOW_POLY_TREE2 Model.001
+    100096: Mesh46 tree7 LOW_POLY_TREE2 Model.001
+    100098: Mesh47 tree7 LOW_POLY_TREE2 Model.001
+    100100: Mesh48 tree7 LOW_POLY_TREE2 Model.001
+    100102: Mesh49 tree8 LOW_POLY_TREE2 Model.001
+    100104: Mesh5 Group5 Model.001
+    100106: Mesh50 tree8 LOW_POLY_TREE2 Model.001
+    100108: Mesh51 tree8 LOW_POLY_TREE2 Model.001
+    100110: Mesh52 tree8 LOW_POLY_TREE2 Model.001
+    100112: Mesh53 tree8 LOW_POLY_TREE2 Model.001
+    100114: Mesh54 tree8 LOW_POLY_TREE2 Model.001
+    100116: Mesh55 Low_polygon_toilet1 Model.001
+    100118: Mesh56 FamilyGeomCombination_2975_1 P9160___Lavatory__Vanit.000
+    100120: Mesh57 P9160___Lavatory__Vanity_top__Button_Controlled__Psy.000
+    100122: Mesh58 P9160___Lavatory__Vanity_top__Button_Controlled__Psy.000
+    100124: Mesh59 Component_4_1 Component_5_1 Model.001
+    100126: Mesh6 Derrick1 Model.001
+    100128: Mesh60 Component_4_2 Component_5_1 Model.001
+    100130: Mesh61 Component_2_1 Component_5_1 Model.001
+    100132: Mesh62 Component_3_1 Component_5_1 Model.001
+    100134: Mesh63 Component_4_3 Component_5_1 Model.001
+    100136: Mesh64 Component_4_4 Component_5_1 Model.001
+    100138: Mesh65 Component_4_5 Component_5_1 Model.001
+    100140: Mesh66 Component_4_6 Component_5_1 Model.001
+    100142: Mesh67 Component_4_7 Component_5_1 Model.001
+    100144: Mesh68 Component_4_8 Component_5_1 Model.001
+    100146: Mesh69 Component_4_9 Component_5_1 Model.001
+    100148: Mesh7 tree1 LOW_POLY_TREE1 Model.001
+    100150: Mesh70 Component_4_10 Component_5_1 Model.001
+    100152: Mesh71 Component_4_11 Component_5_1 Model.001
+    100154: Mesh72 Component_4_12 Component_5_1 Model.001
+    100156: Mesh73 Component_4_13 Component_5_1 Model.001
+    100158: Mesh74 Component_4_14 Component_5_1 Model.001
+    100160: Mesh75 Single_bed1 Model.001
+    100162: Mesh76 Single_bed2 Model.001
+    100164: Mesh77 Single_bed3 Model.001
+    100166: Mesh78 Single_bed4 Model.001
+    100168: Mesh79 Single_bed5 Model.001
+    100170: Mesh8 tree1 LOW_POLY_TREE1 Model.001
+    100172: Mesh80 Single_bed6 Model.001
+    100174: Mesh81 Single_bed7 Model.001
+    100176: Mesh82 Single_bed8 Model.001
+    100178: Mesh83 Single_bed9 Model.001
+    100180: Mesh84 Single_bed10 Model.001
+    100182: Mesh85 Single_bed11 Model.001
+    100184: Mesh86 Single_bed12 Model.001
+    100186: Mesh87 Single_bed13 Model.001
+    100188: Mesh88 Single_bed14 Model.001
+    100190: Mesh89 Single_bed15 Model.001
+    100192: Mesh9 tree1 LOW_POLY_TREE1 Model.001
+    100194: Mesh90 Single_bed16 Model.001
+    100196: Mesh91 Single_bed17 Model.001
+    100198: Mesh92 Single_bed18 Model.001
+    100200: Mesh93 Single_bed19 Model.001
+    100202: Mesh94 Single_bed_1_1 Model.001
+    100204: Mesh95 Single_bed_1_2 Model.001
+    100206: Mesh96 Group7 Group6 Table_2_1 Model.001
+    100208: Mesh97 Group8 Group6 Table_2_1 Model.001
+    100210: Mesh98 Group9 Group6 Table_2_1 Model.001
+    100212: Mesh99 Group10 Group6 Table_2_1 Model.001
+    100214: //RootNode
+    400000: Camera
+    400002: Lamp
+    400004: Mesh1 Group1 Model.001
+    400006: Mesh10 tree1 LOW_POLY_TREE1 Model.001
+    400008: Mesh100 Group11 Group6 Table_2_1 Model.001
+    400010: Mesh101 Group12 Group6 Table_2_1 Model.001
+    400012: Mesh102 Model.001
+    400014: Mesh103 Model.001
+    400016: Mesh104 Model.001
+    400018: Mesh105 Model.001
+    400020: Mesh11 tree1 LOW_POLY_TREE1 Model.001
+    400022: Mesh12 tree1 LOW_POLY_TREE1 Model.001
+    400024: Mesh13 tree2 LOW_POLY_TREE1 Model.001
+    400026: Mesh14 tree2 LOW_POLY_TREE1 Model.001
+    400028: Mesh15 tree2 LOW_POLY_TREE1 Model.001
+    400030: Mesh16 tree2 LOW_POLY_TREE1 Model.001
+    400032: Mesh17 tree2 LOW_POLY_TREE1 Model.001
+    400034: Mesh18 tree2 LOW_POLY_TREE1 Model.001
+    400036: Mesh19 tree3 LOW_POLY_TREE1 Model.001
+    400038: Mesh2 Group2 Model.001
+    400040: Mesh20 tree3 LOW_POLY_TREE1 Model.001
+    400042: Mesh21 tree3 LOW_POLY_TREE1 Model.001
+    400044: Mesh22 tree3 LOW_POLY_TREE1 Model.001
+    400046: Mesh23 tree3 LOW_POLY_TREE1 Model.001
+    400048: Mesh24 tree3 LOW_POLY_TREE1 Model.001
+    400050: Mesh25 tree4 LOW_POLY_TREE1 Model.001
+    400052: Mesh26 tree4 LOW_POLY_TREE1 Model.001
+    400054: Mesh27 tree4 LOW_POLY_TREE1 Model.001
+    400056: Mesh28 tree4 LOW_POLY_TREE1 Model.001
+    400058: Mesh29 tree4 LOW_POLY_TREE1 Model.001
+    400060: Mesh3 Group3 Model.001
+    400062: Mesh30 tree4 LOW_POLY_TREE1 Model.001
+    400064: Mesh31 tree5 LOW_POLY_TREE2 Model.001
+    400066: Mesh32 tree5 LOW_POLY_TREE2 Model.001
+    400068: Mesh33 tree5 LOW_POLY_TREE2 Model.001
+    400070: Mesh34 tree5 LOW_POLY_TREE2 Model.001
+    400072: Mesh35 tree5 LOW_POLY_TREE2 Model.001
+    400074: Mesh36 tree5 LOW_POLY_TREE2 Model.001
+    400076: Mesh37 tree6 LOW_POLY_TREE2 Model.001
+    400078: Mesh38 tree6 LOW_POLY_TREE2 Model.001
+    400080: Mesh39 tree6 LOW_POLY_TREE2 Model.001
+    400082: Mesh4 Group4 Model.001
+    400084: Mesh40 tree6 LOW_POLY_TREE2 Model.001
+    400086: Mesh41 tree6 LOW_POLY_TREE2 Model.001
+    400088: Mesh42 tree6 LOW_POLY_TREE2 Model.001
+    400090: Mesh43 tree7 LOW_POLY_TREE2 Model.001
+    400092: Mesh44 tree7 LOW_POLY_TREE2 Model.001
+    400094: Mesh45 tree7 LOW_POLY_TREE2 Model.001
+    400096: Mesh46 tree7 LOW_POLY_TREE2 Model.001
+    400098: Mesh47 tree7 LOW_POLY_TREE2 Model.001
+    400100: Mesh48 tree7 LOW_POLY_TREE2 Model.001
+    400102: Mesh49 tree8 LOW_POLY_TREE2 Model.001
+    400104: Mesh5 Group5 Model.001
+    400106: Mesh50 tree8 LOW_POLY_TREE2 Model.001
+    400108: Mesh51 tree8 LOW_POLY_TREE2 Model.001
+    400110: Mesh52 tree8 LOW_POLY_TREE2 Model.001
+    400112: Mesh53 tree8 LOW_POLY_TREE2 Model.001
+    400114: Mesh54 tree8 LOW_POLY_TREE2 Model.001
+    400116: Mesh55 Low_polygon_toilet1 Model.001
+    400118: Mesh56 FamilyGeomCombination_2975_1 P9160___Lavatory__Vanit.000
+    400120: Mesh57 P9160___Lavatory__Vanity_top__Button_Controlled__Psy.000
+    400122: Mesh58 P9160___Lavatory__Vanity_top__Button_Controlled__Psy.000
+    400124: Mesh59 Component_4_1 Component_5_1 Model.001
+    400126: Mesh6 Derrick1 Model.001
+    400128: Mesh60 Component_4_2 Component_5_1 Model.001
+    400130: Mesh61 Component_2_1 Component_5_1 Model.001
+    400132: Mesh62 Component_3_1 Component_5_1 Model.001
+    400134: Mesh63 Component_4_3 Component_5_1 Model.001
+    400136: Mesh64 Component_4_4 Component_5_1 Model.001
+    400138: Mesh65 Component_4_5 Component_5_1 Model.001
+    400140: Mesh66 Component_4_6 Component_5_1 Model.001
+    400142: Mesh67 Component_4_7 Component_5_1 Model.001
+    400144: Mesh68 Component_4_8 Component_5_1 Model.001
+    400146: Mesh69 Component_4_9 Component_5_1 Model.001
+    400148: Mesh7 tree1 LOW_POLY_TREE1 Model.001
+    400150: Mesh70 Component_4_10 Component_5_1 Model.001
+    400152: Mesh71 Component_4_11 Component_5_1 Model.001
+    400154: Mesh72 Component_4_12 Component_5_1 Model.001
+    400156: Mesh73 Component_4_13 Component_5_1 Model.001
+    400158: Mesh74 Component_4_14 Component_5_1 Model.001
+    400160: Mesh75 Single_bed1 Model.001
+    400162: Mesh76 Single_bed2 Model.001
+    400164: Mesh77 Single_bed3 Model.001
+    400166: Mesh78 Single_bed4 Model.001
+    400168: Mesh79 Single_bed5 Model.001
+    400170: Mesh8 tree1 LOW_POLY_TREE1 Model.001
+    400172: Mesh80 Single_bed6 Model.001
+    400174: Mesh81 Single_bed7 Model.001
+    400176: Mesh82 Single_bed8 Model.001
+    400178: Mesh83 Single_bed9 Model.001
+    400180: Mesh84 Single_bed10 Model.001
+    400182: Mesh85 Single_bed11 Model.001
+    400184: Mesh86 Single_bed12 Model.001
+    400186: Mesh87 Single_bed13 Model.001
+    400188: Mesh88 Single_bed14 Model.001
+    400190: Mesh89 Single_bed15 Model.001
+    400192: Mesh9 tree1 LOW_POLY_TREE1 Model.001
+    400194: Mesh90 Single_bed16 Model.001
+    400196: Mesh91 Single_bed17 Model.001
+    400198: Mesh92 Single_bed18 Model.001
+    400200: Mesh93 Single_bed19 Model.001
+    400202: Mesh94 Single_bed_1_1 Model.001
+    400204: Mesh95 Single_bed_1_2 Model.001
+    400206: Mesh96 Group7 Group6 Table_2_1 Model.001
+    400208: Mesh97 Group8 Group6 Table_2_1 Model.001
+    400210: Mesh98 Group9 Group6 Table_2_1 Model.001
+    400212: Mesh99 Group10 Group6 Table_2_1 Model.001
+    400214: //RootNode
+    2300000: Mesh1 Group1 Model.001
+    2300002: Mesh10 tree1 LOW_POLY_TREE1 Model.001
+    2300004: Mesh100 Group11 Group6 Table_2_1 Model.001
+    2300006: Mesh101 Group12 Group6 Table_2_1 Model.001
+    2300008: Mesh102 Model.001
+    2300010: Mesh103 Model.001
+    2300012: Mesh104 Model.001
+    2300014: Mesh105 Model.001
+    2300016: Mesh11 tree1 LOW_POLY_TREE1 Model.001
+    2300018: Mesh12 tree1 LOW_POLY_TREE1 Model.001
+    2300020: Mesh13 tree2 LOW_POLY_TREE1 Model.001
+    2300022: Mesh14 tree2 LOW_POLY_TREE1 Model.001
+    2300024: Mesh15 tree2 LOW_POLY_TREE1 Model.001
+    2300026: Mesh16 tree2 LOW_POLY_TREE1 Model.001
+    2300028: Mesh17 tree2 LOW_POLY_TREE1 Model.001
+    2300030: Mesh18 tree2 LOW_POLY_TREE1 Model.001
+    2300032: Mesh19 tree3 LOW_POLY_TREE1 Model.001
+    2300034: Mesh2 Group2 Model.001
+    2300036: Mesh20 tree3 LOW_POLY_TREE1 Model.001
+    2300038: Mesh21 tree3 LOW_POLY_TREE1 Model.001
+    2300040: Mesh22 tree3 LOW_POLY_TREE1 Model.001
+    2300042: Mesh23 tree3 LOW_POLY_TREE1 Model.001
+    2300044: Mesh24 tree3 LOW_POLY_TREE1 Model.001
+    2300046: Mesh25 tree4 LOW_POLY_TREE1 Model.001
+    2300048: Mesh26 tree4 LOW_POLY_TREE1 Model.001
+    2300050: Mesh27 tree4 LOW_POLY_TREE1 Model.001
+    2300052: Mesh28 tree4 LOW_POLY_TREE1 Model.001
+    2300054: Mesh29 tree4 LOW_POLY_TREE1 Model.001
+    2300056: Mesh3 Group3 Model.001
+    2300058: Mesh30 tree4 LOW_POLY_TREE1 Model.001
+    2300060: Mesh31 tree5 LOW_POLY_TREE2 Model.001
+    2300062: Mesh32 tree5 LOW_POLY_TREE2 Model.001
+    2300064: Mesh33 tree5 LOW_POLY_TREE2 Model.001
+    2300066: Mesh34 tree5 LOW_POLY_TREE2 Model.001
+    2300068: Mesh35 tree5 LOW_POLY_TREE2 Model.001
+    2300070: Mesh36 tree5 LOW_POLY_TREE2 Model.001
+    2300072: Mesh37 tree6 LOW_POLY_TREE2 Model.001
+    2300074: Mesh38 tree6 LOW_POLY_TREE2 Model.001
+    2300076: Mesh39 tree6 LOW_POLY_TREE2 Model.001
+    2300078: Mesh4 Group4 Model.001
+    2300080: Mesh40 tree6 LOW_POLY_TREE2 Model.001
+    2300082: Mesh41 tree6 LOW_POLY_TREE2 Model.001
+    2300084: Mesh42 tree6 LOW_POLY_TREE2 Model.001
+    2300086: Mesh43 tree7 LOW_POLY_TREE2 Model.001
+    2300088: Mesh44 tree7 LOW_POLY_TREE2 Model.001
+    2300090: Mesh45 tree7 LOW_POLY_TREE2 Model.001
+    2300092: Mesh46 tree7 LOW_POLY_TREE2 Model.001
+    2300094: Mesh47 tree7 LOW_POLY_TREE2 Model.001
+    2300096: Mesh48 tree7 LOW_POLY_TREE2 Model.001
+    2300098: Mesh49 tree8 LOW_POLY_TREE2 Model.001
+    2300100: Mesh5 Group5 Model.001
+    2300102: Mesh50 tree8 LOW_POLY_TREE2 Model.001
+    2300104: Mesh51 tree8 LOW_POLY_TREE2 Model.001
+    2300106: Mesh52 tree8 LOW_POLY_TREE2 Model.001
+    2300108: Mesh53 tree8 LOW_POLY_TREE2 Model.001
+    2300110: Mesh54 tree8 LOW_POLY_TREE2 Model.001
+    2300112: Mesh55 Low_polygon_toilet1 Model.001
+    2300114: Mesh56 FamilyGeomCombination_2975_1 P9160___Lavatory__Vanit.000
+    2300116: Mesh57 P9160___Lavatory__Vanity_top__Button_Controlled__Psy.000
+    2300118: Mesh58 P9160___Lavatory__Vanity_top__Button_Controlled__Psy.000
+    2300120: Mesh59 Component_4_1 Component_5_1 Model.001
+    2300122: Mesh6 Derrick1 Model.001
+    2300124: Mesh60 Component_4_2 Component_5_1 Model.001
+    2300126: Mesh61 Component_2_1 Component_5_1 Model.001
+    2300128: Mesh62 Component_3_1 Component_5_1 Model.001
+    2300130: Mesh63 Component_4_3 Component_5_1 Model.001
+    2300132: Mesh64 Component_4_4 Component_5_1 Model.001
+    2300134: Mesh65 Component_4_5 Component_5_1 Model.001
+    2300136: Mesh66 Component_4_6 Component_5_1 Model.001
+    2300138: Mesh67 Component_4_7 Component_5_1 Model.001
+    2300140: Mesh68 Component_4_8 Component_5_1 Model.001
+    2300142: Mesh69 Component_4_9 Component_5_1 Model.001
+    2300144: Mesh7 tree1 LOW_POLY_TREE1 Model.001
+    2300146: Mesh70 Component_4_10 Component_5_1 Model.001
+    2300148: Mesh71 Component_4_11 Component_5_1 Model.001
+    2300150: Mesh72 Component_4_12 Component_5_1 Model.001
+    2300152: Mesh73 Component_4_13 Component_5_1 Model.001
+    2300154: Mesh74 Component_4_14 Component_5_1 Model.001
+    2300156: Mesh75 Single_bed1 Model.001
+    2300158: Mesh76 Single_bed2 Model.001
+    2300160: Mesh77 Single_bed3 Model.001
+    2300162: Mesh78 Single_bed4 Model.001
+    2300164: Mesh79 Single_bed5 Model.001
+    2300166: Mesh8 tree1 LOW_POLY_TREE1 Model.001
+    2300168: Mesh80 Single_bed6 Model.001
+    2300170: Mesh81 Single_bed7 Model.001
+    2300172: Mesh82 Single_bed8 Model.001
+    2300174: Mesh83 Single_bed9 Model.001
+    2300176: Mesh84 Single_bed10 Model.001
+    2300178: Mesh85 Single_bed11 Model.001
+    2300180: Mesh86 Single_bed12 Model.001
+    2300182: Mesh87 Single_bed13 Model.001
+    2300184: Mesh88 Single_bed14 Model.001
+    2300186: Mesh89 Single_bed15 Model.001
+    2300188: Mesh9 tree1 LOW_POLY_TREE1 Model.001
+    2300190: Mesh90 Single_bed16 Model.001
+    2300192: Mesh91 Single_bed17 Model.001
+    2300194: Mesh92 Single_bed18 Model.001
+    2300196: Mesh93 Single_bed19 Model.001
+    2300198: Mesh94 Single_bed_1_1 Model.001
+    2300200: Mesh95 Single_bed_1_2 Model.001
+    2300202: Mesh96 Group7 Group6 Table_2_1 Model.001
+    2300204: Mesh97 Group8 Group6 Table_2_1 Model.001
+    2300206: Mesh98 Group9 Group6 Table_2_1 Model.001
+    2300208: Mesh99 Group10 Group6 Table_2_1 Model.001
+    3300000: Mesh1 Group1 Model.001
+    3300002: Mesh10 tree1 LOW_POLY_TREE1 Model.001
+    3300004: Mesh100 Group11 Group6 Table_2_1 Model.001
+    3300006: Mesh101 Group12 Group6 Table_2_1 Model.001
+    3300008: Mesh102 Model.001
+    3300010: Mesh103 Model.001
+    3300012: Mesh104 Model.001
+    3300014: Mesh105 Model.001
+    3300016: Mesh11 tree1 LOW_POLY_TREE1 Model.001
+    3300018: Mesh12 tree1 LOW_POLY_TREE1 Model.001
+    3300020: Mesh13 tree2 LOW_POLY_TREE1 Model.001
+    3300022: Mesh14 tree2 LOW_POLY_TREE1 Model.001
+    3300024: Mesh15 tree2 LOW_POLY_TREE1 Model.001
+    3300026: Mesh16 tree2 LOW_POLY_TREE1 Model.001
+    3300028: Mesh17 tree2 LOW_POLY_TREE1 Model.001
+    3300030: Mesh18 tree2 LOW_POLY_TREE1 Model.001
+    3300032: Mesh19 tree3 LOW_POLY_TREE1 Model.001
+    3300034: Mesh2 Group2 Model.001
+    3300036: Mesh20 tree3 LOW_POLY_TREE1 Model.001
+    3300038: Mesh21 tree3 LOW_POLY_TREE1 Model.001
+    3300040: Mesh22 tree3 LOW_POLY_TREE1 Model.001
+    3300042: Mesh23 tree3 LOW_POLY_TREE1 Model.001
+    3300044: Mesh24 tree3 LOW_POLY_TREE1 Model.001
+    3300046: Mesh25 tree4 LOW_POLY_TREE1 Model.001
+    3300048: Mesh26 tree4 LOW_POLY_TREE1 Model.001
+    3300050: Mesh27 tree4 LOW_POLY_TREE1 Model.001
+    3300052: Mesh28 tree4 LOW_POLY_TREE1 Model.001
+    3300054: Mesh29 tree4 LOW_POLY_TREE1 Model.001
+    3300056: Mesh3 Group3 Model.001
+    3300058: Mesh30 tree4 LOW_POLY_TREE1 Model.001
+    3300060: Mesh31 tree5 LOW_POLY_TREE2 Model.001
+    3300062: Mesh32 tree5 LOW_POLY_TREE2 Model.001
+    3300064: Mesh33 tree5 LOW_POLY_TREE2 Model.001
+    3300066: Mesh34 tree5 LOW_POLY_TREE2 Model.001
+    3300068: Mesh35 tree5 LOW_POLY_TREE2 Model.001
+    3300070: Mesh36 tree5 LOW_POLY_TREE2 Model.001
+    3300072: Mesh37 tree6 LOW_POLY_TREE2 Model.001
+    3300074: Mesh38 tree6 LOW_POLY_TREE2 Model.001
+    3300076: Mesh39 tree6 LOW_POLY_TREE2 Model.001
+    3300078: Mesh4 Group4 Model.001
+    3300080: Mesh40 tree6 LOW_POLY_TREE2 Model.001
+    3300082: Mesh41 tree6 LOW_POLY_TREE2 Model.001
+    3300084: Mesh42 tree6 LOW_POLY_TREE2 Model.001
+    3300086: Mesh43 tree7 LOW_POLY_TREE2 Model.001
+    3300088: Mesh44 tree7 LOW_POLY_TREE2 Model.001
+    3300090: Mesh45 tree7 LOW_POLY_TREE2 Model.001
+    3300092: Mesh46 tree7 LOW_POLY_TREE2 Model.001
+    3300094: Mesh47 tree7 LOW_POLY_TREE2 Model.001
+    3300096: Mesh48 tree7 LOW_POLY_TREE2 Model.001
+    3300098: Mesh49 tree8 LOW_POLY_TREE2 Model.001
+    3300100: Mesh5 Group5 Model.001
+    3300102: Mesh50 tree8 LOW_POLY_TREE2 Model.001
+    3300104: Mesh51 tree8 LOW_POLY_TREE2 Model.001
+    3300106: Mesh52 tree8 LOW_POLY_TREE2 Model.001
+    3300108: Mesh53 tree8 LOW_POLY_TREE2 Model.001
+    3300110: Mesh54 tree8 LOW_POLY_TREE2 Model.001
+    3300112: Mesh55 Low_polygon_toilet1 Model.001
+    3300114: Mesh56 FamilyGeomCombination_2975_1 P9160___Lavatory__Vanit.000
+    3300116: Mesh57 P9160___Lavatory__Vanity_top__Button_Controlled__Psy.000
+    3300118: Mesh58 P9160___Lavatory__Vanity_top__Button_Controlled__Psy.000
+    3300120: Mesh59 Component_4_1 Component_5_1 Model.001
+    3300122: Mesh6 Derrick1 Model.001
+    3300124: Mesh60 Component_4_2 Component_5_1 Model.001
+    3300126: Mesh61 Component_2_1 Component_5_1 Model.001
+    3300128: Mesh62 Component_3_1 Component_5_1 Model.001
+    3300130: Mesh63 Component_4_3 Component_5_1 Model.001
+    3300132: Mesh64 Component_4_4 Component_5_1 Model.001
+    3300134: Mesh65 Component_4_5 Component_5_1 Model.001
+    3300136: Mesh66 Component_4_6 Component_5_1 Model.001
+    3300138: Mesh67 Component_4_7 Component_5_1 Model.001
+    3300140: Mesh68 Component_4_8 Component_5_1 Model.001
+    3300142: Mesh69 Component_4_9 Component_5_1 Model.001
+    3300144: Mesh7 tree1 LOW_POLY_TREE1 Model.001
+    3300146: Mesh70 Component_4_10 Component_5_1 Model.001
+    3300148: Mesh71 Component_4_11 Component_5_1 Model.001
+    3300150: Mesh72 Component_4_12 Component_5_1 Model.001
+    3300152: Mesh73 Component_4_13 Component_5_1 Model.001
+    3300154: Mesh74 Component_4_14 Component_5_1 Model.001
+    3300156: Mesh75 Single_bed1 Model.001
+    3300158: Mesh76 Single_bed2 Model.001
+    3300160: Mesh77 Single_bed3 Model.001
+    3300162: Mesh78 Single_bed4 Model.001
+    3300164: Mesh79 Single_bed5 Model.001
+    3300166: Mesh8 tree1 LOW_POLY_TREE1 Model.001
+    3300168: Mesh80 Single_bed6 Model.001
+    3300170: Mesh81 Single_bed7 Model.001
+    3300172: Mesh82 Single_bed8 Model.001
+    3300174: Mesh83 Single_bed9 Model.001
+    3300176: Mesh84 Single_bed10 Model.001
+    3300178: Mesh85 Single_bed11 Model.001
+    3300180: Mesh86 Single_bed12 Model.001
+    3300182: Mesh87 Single_bed13 Model.001
+    3300184: Mesh88 Single_bed14 Model.001
+    3300186: Mesh89 Single_bed15 Model.001
+    3300188: Mesh9 tree1 LOW_POLY_TREE1 Model.001
+    3300190: Mesh90 Single_bed16 Model.001
+    3300192: Mesh91 Single_bed17 Model.001
+    3300194: Mesh92 Single_bed18 Model.001
+    3300196: Mesh93 Single_bed19 Model.001
+    3300198: Mesh94 Single_bed_1_1 Model.001
+    3300200: Mesh95 Single_bed_1_2 Model.001
+    3300202: Mesh96 Group7 Group6 Table_2_1 Model.001
+    3300204: Mesh97 Group8 Group6 Table_2_1 Model.001
+    3300206: Mesh98 Group9 Group6 Table_2_1 Model.001
+    3300208: Mesh99 Group10 Group6 Table_2_1 Model.001
+    4300000: Mesh68 Component_4_8 Component_5_1 Model.001
+    4300002: Mesh31 tree5 LOW_POLY_TREE2 Model.001
+    4300004: Mesh72 Component_4_12 Component_5_1 Model.001
+    4300006: Mesh105 Model.001
+    4300008: Mesh3 Group3 Model.001
+    4300010: Mesh70 Component_4_10 Component_5_1 Model.001
+    4300012: Mesh1 Group1 Model.001
+    4300014: Mesh65 Component_4_5 Component_5_1 Model.001
+    4300016: Mesh53 tree8 LOW_POLY_TREE2 Model.001
+    4300018: Mesh49 tree8 LOW_POLY_TREE2 Model.001
+    4300020: Mesh93 Single_bed19 Model.001
+    4300022: Mesh22 tree3 LOW_POLY_TREE1 Model.001
+    4300024: Mesh11 tree1 LOW_POLY_TREE1 Model.001
+    4300026: Mesh104 Model.001
+    4300028: Mesh94 Single_bed_1_1 Model.001
+    4300030: Mesh59 Component_4_1 Component_5_1 Model.001
+    4300032: Mesh102 Model.001
+    4300034: Mesh78 Single_bed4 Model.001
+    4300036: Mesh29 tree4 LOW_POLY_TREE1 Model.001
+    4300038: Mesh95 Single_bed_1_2 Model.001
+    4300040: Mesh60 Component_4_2 Component_5_1 Model.001
+    4300042: Mesh2 Group2 Model.001
+    4300044: Mesh101 Group12 Group6 Table_2_1 Model.001
+    4300046: Mesh66 Component_4_6 Component_5_1 Model.001
+    4300048: Mesh12 tree1 LOW_POLY_TREE1 Model.001
+    4300050: Mesh76 Single_bed2 Model.001
+    4300052: Mesh50 tree8 LOW_POLY_TREE2 Model.001
+    4300054: Mesh54 tree8 LOW_POLY_TREE2 Model.001
+    4300056: Mesh14 tree2 LOW_POLY_TREE1 Model.001
+    4300058: Mesh39 tree6 LOW_POLY_TREE2 Model.001
+    4300060: Mesh71 Component_4_11 Component_5_1 Model.001
+    4300062: Mesh80 Single_bed6 Model.001
+    4300064: Mesh92 Single_bed18 Model.001
+    4300066: Mesh52 tree8 LOW_POLY_TREE2 Model.001
+    4300068: Mesh82 Single_bed8 Model.001
+    4300070: Mesh73 Component_4_13 Component_5_1 Model.001
+    4300072: Mesh74 Component_4_14 Component_5_1 Model.001
+    4300074: Mesh44 tree7 LOW_POLY_TREE2 Model.001
+    4300076: Mesh16 tree2 LOW_POLY_TREE1 Model.001
+    4300078: Mesh6 Derrick1 Model.001
+    4300080: Mesh100 Group11 Group6 Table_2_1 Model.001
+    4300082: Mesh47 tree7 LOW_POLY_TREE2 Model.001
+    4300084: Mesh9 tree1 LOW_POLY_TREE1 Model.001
+    4300086: Mesh18 tree2 LOW_POLY_TREE1 Model.001
+    4300088: Mesh64 Component_4_4 Component_5_1 Model.001
+    4300090: Mesh17 tree2 LOW_POLY_TREE1 Model.001
+    4300092: Mesh10 tree1 LOW_POLY_TREE1 Model.001
+    4300094: Mesh27 tree4 LOW_POLY_TREE1 Model.001
+    4300096: Mesh24 tree3 LOW_POLY_TREE1 Model.001
+    4300098: Mesh7 tree1 LOW_POLY_TREE1 Model.001
+    4300100: Mesh42 tree6 LOW_POLY_TREE2 Model.001
+    4300102: Mesh5 Group5 Model.001
+    4300104: Mesh55 Low_polygon_toilet1 Model.001
+    4300106: Mesh57 P9160___Lavatory__Vanity_top__Button_Controlled__Psy.000
+    4300108: Mesh81 Single_bed7 Model.001
+    4300110: Mesh58 P9160___Lavatory__Vanity_top__Button_Controlled__Psy.000
+    4300112: Mesh85 Single_bed11 Model.001
+    4300114: Mesh67 Component_4_7 Component_5_1 Model.001
+    4300116: Mesh13 tree2 LOW_POLY_TREE1 Model.001
+    4300118: Mesh21 tree3 LOW_POLY_TREE1 Model.001
+    4300120: Mesh4 Group4 Model.001
+    4300122: Mesh48 tree7 LOW_POLY_TREE2 Model.001
+    4300124: Mesh83 Single_bed9 Model.001
+    4300126: Mesh61 Component_2_1 Component_5_1 Model.001
+    4300128: Mesh36 tree5 LOW_POLY_TREE2 Model.001
+    4300130: Mesh43 tree7 LOW_POLY_TREE2 Model.001
+    4300132: Mesh28 tree4 LOW_POLY_TREE1 Model.001
+    4300134: Mesh37 tree6 LOW_POLY_TREE2 Model.001
+    4300136: Mesh62 Component_3_1 Component_5_1 Model.001
+    4300138: Mesh97 Group8 Group6 Table_2_1 Model.001
+    4300140: Mesh32 tree5 LOW_POLY_TREE2 Model.001
+    4300142: Mesh86 Single_bed12 Model.001
+    4300144: Mesh34 tree5 LOW_POLY_TREE2 Model.001
+    4300146: Mesh40 tree6 LOW_POLY_TREE2 Model.001
+    4300148: Mesh20 tree3 LOW_POLY_TREE1 Model.001
+    4300150: Mesh8 tree1 LOW_POLY_TREE1 Model.001
+    4300152: Mesh26 tree4 LOW_POLY_TREE1 Model.001
+    4300154: Mesh89 Single_bed15 Model.001
+    4300156: Mesh23 tree3 LOW_POLY_TREE1 Model.001
+    4300158: Mesh41 tree6 LOW_POLY_TREE2 Model.001
+    4300160: Mesh96 Group7 Group6 Table_2_1 Model.001
+    4300162: Mesh33 tree5 LOW_POLY_TREE2 Model.001
+    4300164: Mesh79 Single_bed5 Model.001
+    4300166: Mesh90 Single_bed16 Model.001
+    4300168: Mesh87 Single_bed13 Model.001
+    4300170: Mesh25 tree4 LOW_POLY_TREE1 Model.001
+    4300172: Mesh45 tree7 LOW_POLY_TREE2 Model.001
+    4300174: Mesh84 Single_bed10 Model.001
+    4300176: Mesh30 tree4 LOW_POLY_TREE1 Model.001
+    4300178: Mesh75 Single_bed1 Model.001
+    4300180: Mesh69 Component_4_9 Component_5_1 Model.001
+    4300182: Mesh88 Single_bed14 Model.001
+    4300184: Mesh51 tree8 LOW_POLY_TREE2 Model.001
+    4300186: Mesh15 tree2 LOW_POLY_TREE1 Model.001
+    4300188: Mesh38 tree6 LOW_POLY_TREE2 Model.001
+    4300190: Mesh35 tree5 LOW_POLY_TREE2 Model.001
+    4300192: Mesh56 FamilyGeomCombination_2975_1 P9160___Lavatory__Vanit.000
+    4300194: Mesh63 Component_4_3 Component_5_1 Model.001
+    4300196: Mesh99 Group10 Group6 Table_2_1 Model.001
+    4300198: Mesh77 Single_bed3 Model.001
+    4300200: Mesh103 Model.001
+    4300202: Mesh19 tree3 LOW_POLY_TREE1 Model.001
+    4300204: Mesh46 tree7 LOW_POLY_TREE2 Model.001
+    4300206: Mesh91 Single_bed17 Model.001
+    4300208: Mesh98 Group9 Group6 Table_2_1 Model.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
