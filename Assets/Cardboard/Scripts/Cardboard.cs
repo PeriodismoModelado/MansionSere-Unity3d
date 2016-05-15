@@ -31,17 +31,21 @@ public class Cardboard : MonoBehaviour {
   /// Not null: the instance is created on demand if not already present.
   public static Cardboard SDK {
     get {
-      if (sdk == null) {
-        sdk = UnityEngine.Object.FindObjectOfType<Cardboard>();
-      }
-      if (sdk == null) {
-        Debug.Log("Creating Cardboard object");
-        var go = new GameObject("Cardboard");
-        sdk = go.AddComponent<Cardboard>();
-        go.transform.localPosition = Vector3.zero;
-      }
-      return sdk;
-    }
+			if (sdk == null) {
+				sdk = UnityEngine.Object.FindObjectOfType<Cardboard> ();
+				sdk.VRModeEnabled = Convert.ToBoolean(PlayerPrefs.GetInt ("VrMode"));
+			}
+			if (sdk == null) {
+				Debug.Log ("Creating Cardboard object");
+				var go = new GameObject ("Cardboard");
+				sdk = go.AddComponent<Cardboard> ();
+				go.transform.localPosition = Vector3.zero;
+				sdk.VRModeEnabled = Convert.ToBoolean(PlayerPrefs.GetInt ("VrMode"));
+			}
+			sdk.VRModeEnabled = Convert.ToBoolean(PlayerPrefs.GetInt ("VrMode"));
+
+			return sdk;
+		}
   }
   private static Cardboard sdk = null;
 
